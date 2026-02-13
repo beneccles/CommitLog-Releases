@@ -1,6 +1,6 @@
 # CommitLog Releases
 
-[![GitHub Release](https://img.shields.io/github/v/release/beneccles/CommitLog-Releases)](https://github.com/beneccles/CommitLog-Releases/releases)
+[![GitHub Tag](https://img.shields.io/github/v/tag/beneccles/CommitLog-Releases)](https://github.com/beneccles/CommitLog-Releases/releases)
 
 Download the latest version of CommitLog from the [Releases](../../releases) page.
 
