@@ -265,7 +265,7 @@ This EULA, together with our [Privacy Policy](PRIVACY_POLICY.md), constitutes th
 
 For questions about this EULA:
 
-- **GitHub:** [https://github.com/beneccles/CommitLog/issues](https://github.com/beneccles/CommitLog-Releases/issues)
+- **GitHub:** [https://github.com/beneccles/CommitLog/issues](https://github.com/beneccles/CommitLog/issues)
 
 ---
 
